@@ -1,0 +1,40 @@
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.SPLASH.resources
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Diego Arguera\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Diego\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Diego\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Archivo.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Estudiantes.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.LogIn.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.MENU.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Notas.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.SPLASH.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Diego\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\abyga\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\abyga\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\abyga\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Archivo.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Estudiantes.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.LogIn.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.MENU.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Notas.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.SPLASH.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\abyga\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
